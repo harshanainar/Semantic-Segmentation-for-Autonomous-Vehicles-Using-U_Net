@@ -1,1 +1,1 @@
-# emantic-Segmentation-for-Autonomous-Vehicles-
+# Semantic-Segmentation-for-Autonomous-Vehicles-
